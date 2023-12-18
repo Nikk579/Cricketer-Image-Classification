@@ -48,7 +48,7 @@ The project involves several key steps:
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/cricket-image-classification.git](https://github.com/Nikk579/Cricketer-Image-Classification.git)
+   git clone https://github.com/Nikk579/Cricketer-Image-Classification.git
    cd cricket-image-classification
 
   Open and run the Jupyter notebooks in the notebooks directory to follow the step-by-step process.
